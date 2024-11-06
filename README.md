@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I'll create a basic recipe website using my HTML skills. The site will have an index page linking to several recipe pages. I'll set up a GitHub repository, build out the HTML structure, and create recipe pages with headings, images, descriptions, ingredients, and steps. As I go, I'll commit my progress using Git, and eventually publish my project online via GitHub Pages. This project helps me practice working with Git, linking files, and building structured HTML pages.
