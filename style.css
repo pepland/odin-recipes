@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+}
+
+.recipes {
+    font-size: 18px;
+    font-family:Georgia, serif;
+}
+
+.first,
+.dessert {
+    color: white;
+}
+
+.first {
+    background-color: green;
+}
+
+.dessert {
+    background-color: red;
+}
